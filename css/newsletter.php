@@ -2,7 +2,7 @@
 
 $recipient = "INSERTADDRESS";
 
-$subject = "Subscribe";
+$subject = "Newsletter";
 
 $location = "/thanks";
 
